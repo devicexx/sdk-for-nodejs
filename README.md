@@ -36,11 +36,11 @@ dxx.register(data, function(error, response, body) {
 MIT © [Vankia IoT Inc.](www.vankia.cn)
 
 
-[npm-image]: https://badge.fury.io/js/devicexx-sdk.svg
+[npm-image]: https://badge.fury.io/js/sdk-for-nodejs.svg
 [npm-url]: https://npmjs.org/package/devicexx-sdk
-[travis-image]: https://travis-ci.org/mengjiaqi/devicexx-sdk.svg?branch=master
-[travis-url]: https://travis-ci.org/mengjiaqi/devicexx-sdk
-[daviddm-image]: https://david-dm.org/mengjiaqi/devicexx-sdk.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/mengjiaqi/devicexx-sdk
-[coveralls-image]: https://coveralls.io/repos/mengjiaqi/devicexx-sdk/badge.svg
-[coveralls-url]: https://coveralls.io/r/mengjiaqi/devicexx-sdk
+[travis-image]: https://travis-ci.org/devicexx/sdk-for-nodejs.svg?branch=master
+[travis-url]: https://travis-ci.org/devicexx/sdk-for-nodejs
+[daviddm-image]: https://david-dm.org/devicexx/sdk-for-nodejs.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/devicexx/sdk-for-nodejs
+[coveralls-image]: https://coveralls.io/repos/devicexx/sdk-for-nodejs/badge.svg
+[coveralls-url]: https://coveralls.io/r/devicexx/sdk-for-nodejs
