@@ -33,7 +33,7 @@ dxx.register(data, function(error, response, body) {
 ```
 ## License
 
-MIT © [Jackie Meng](jackie.vankia.cn)
+MIT © [Vankia IoT Inc.](www.vankia.cn)
 
 
 [npm-image]: https://badge.fury.io/js/sdk-for-node.svg
