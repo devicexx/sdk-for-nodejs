@@ -46,7 +46,7 @@
       "mocha": true
     }
   },
-  "repository": "mengjiaqi/sdk-for-node",
+  "repository": "devicexx/sdk-for-node",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
