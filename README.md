@@ -4,15 +4,32 @@
 ## Installation
 
 ```sh
-$ npm install --save sdk-for-node
+$ npm install --save devicexx-sdk
 ```
 
 ## Usage
 
 ```js
-var sdkForNode = require('sdk-for-node');
+var dxx = require('devicexx-sdk');
 
-sdkForNode('Rainbow');
+dxx.init({
+  baseUrl: 'http://api.devicexx.com:4567',
+  prefix: '/v1',
+  access_key: 'your-access-key',
+  access_secret: 'your-access-secret'
+});
+
+// register
+var data = {
+  username: 'your-username',
+  password: 'your-password'
+}
+dxx.register(data, function(error, response, body) {
+  // do something after register
+});
+
+// token / bindingList / unbinding 
+// the same to up 'register'
 ```
 ## License
 

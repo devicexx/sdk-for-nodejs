@@ -1,6 +1,6 @@
 {
   "name": "devicexx-sdk",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "sdk of device++ for node",
   "homepage": "https://git.devicexx.com/devicexx/sdk-for-node",
   "author": {
