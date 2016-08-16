@@ -2,7 +2,7 @@
   "name": "devicexx-sdk",
   "version": "0.1.0",
   "description": "sdk of device++ for node",
-  "homepage": "https://git.devicexx.com/devicexx/sdk-for-node",
+  "homepage": "https://git.devicexx.com/devicexx/sdk-for-nodejs",
   "author": {
     "name": "Jackie Meng",
     "email": "Jackie@vankia.cn",
@@ -46,7 +46,7 @@
       "mocha": true
     }
   },
-  "repository": "devicexx/sdk-for-node",
+  "repository": "devicexx/sdk-for-nodejs",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
